@@ -71,14 +71,6 @@ Kept deliberately small — just enough to test the core idea:
 - Self-reported data — no interviews or usage data to cross-check it.
 - 44% of open-ended answers were vague enough to be coded as "Other/Unclear."
 
-## A note on file formats
-
-The Phase 3–8 documents are Apple **Pages** files (`.pages`). If you don't have Pages, Numbers, or a Mac to open them:
-- Upload them to [iCloud.com/pages](https://www.icloud.com/pages/) (free, no Mac needed) to view/edit, or
-- Export each to PDF or Word from Pages before sharing with someone who doesn't use Apple software.
-
-I'd recommend converting them to PDF before linking this repo in a resume/portfolio, so recruiters can open them without extra software.
-
 ## About this repo
 
 This is a learning project, built to practice end-to-end PM thinking for internship applications — not a pitch for a real company. Feedback is very welcome, especially on anywhere the research doesn't actually support the conclusion I drew from it.
